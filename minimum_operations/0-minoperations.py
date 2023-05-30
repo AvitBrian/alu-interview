@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-"""Alu-interview minimum operationss"""
+"""Alu-interview minimum operations"""
 import math
 
 
-def minoperations(n):
+def minOperations(n):
     """Minimum operations"""
     if n <= 1:
         return 0
